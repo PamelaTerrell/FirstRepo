@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-Git Hello World!
-Good by World!
-=======
 Hello World!
-Good by World!
+Good bye World!
+Hello World!
+Good bye World!
 Now on my second branch.
->
->>>>>> my-new-branch
+Adding some more text.
+
